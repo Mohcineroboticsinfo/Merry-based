@@ -1,5 +1,5 @@
 import './config.js'
-import { fetchLatestBaileysVersion } from '@adiwajshing/baileys'
+import { fetchLatestBaileysVersion } from '@WhiskeySockets/Baileys'
 import cfont from "cfonts";
 import { spawn } from 'child_process';
 import { createInterface } from "readline";
